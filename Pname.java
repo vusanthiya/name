@@ -4,7 +4,7 @@ public class Pname
   {
     Scanner sc=new Scanner (System.in);
     int a=sc.nextInt();
-    while(a!=0)
+    for(i=0;i<a;i++)
     {
       System.out.println("laptop");
     }
