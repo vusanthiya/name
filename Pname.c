@@ -8,4 +8,5 @@ void main()
     {
       printf("laptop");
     }
+  getch();
 }
